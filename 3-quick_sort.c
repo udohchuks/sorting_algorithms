@@ -34,6 +34,7 @@ void quicksort_recursion(int *array, int low, int high, size_t size)
  * @array: array
  * @low: low
  * @high: high
+ * @size: size
  * Return: index of pivot
  */
 
